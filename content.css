@@ -1,0 +1,412 @@
+/* <!-- =======CONTENT========== --> */
+
+.content {
+    padding-top: 40px;
+}
+
+
+/* =wp_box1= */
+
+.wp_box1 {
+    position: relative;
+}
+
+
+/* h1_box1 */
+
+.h1_box1 {
+    font-size: 80%;
+    font-family: Verdana;
+    line-height: 3.125em;
+    position: absolute;
+    text-align: center;
+    left: 33%;
+    width: 33%;
+    padding: 5px 0px;
+    border: 2px solid #FF000F;
+    background-color: #EEAE35;
+    border-radius: 3.125em;
+}
+
+
+/* h2_box1 */
+
+.h2_box1 {
+    position: absolute;
+    width: 33%;
+    left: 30em;
+    top: 4.0625em;
+    color: #17D614;
+}
+
+
+/* =wp_box2= */
+
+.wp_box2 {}
+
+
+/* image product */
+
+.image_product {
+    width: 100%;
+}
+
+
+/* product introduction */
+
+.product_introduction {
+    padding-top: 0.625em;
+    min-height: 3.125em;
+    font-size: 0.8em;
+    text-align: center;
+    width: 88%;
+}
+
+.product_introduction>span {
+    color: #17D614;
+    display: block;
+    padding-top: 0.3125em;
+}
+
+
+/* buttom */
+
+.buttom {
+    width: 88%;
+    text-align: center;
+}
+
+.buttom>button {
+    padding: 0.3125em;
+    font-size: 70%;
+    border-radius: 0.3125em;
+    border: 1px solid #63C672;
+    background-color: #D9EF7A;
+}
+
+
+/* =wp_product= */
+
+.wp_product {
+    padding-top: 8.125em;
+    padding-left: 3%;
+    width: 95%;
+}
+
+
+/* <!-- sản phẩm 1 --> */
+
+
+/* pt1_box2 */
+
+.pt1_box2 {}
+
+
+/* <!-- sản phẩm 2 --> */
+
+.pt2_box2 {
+    padding:
+}
+
+
+/* <!-- sản phẩm 3 --> */
+
+.pt3_box2 {
+    padding:
+}
+
+
+/* <!-- sản phẩm 4 --> */
+
+.pt4_box2 {
+    padding:
+}
+
+
+/* =wp_box3= */
+
+
+/* wp_product_box3 */
+
+.wp_product_box3 {
+    padding-top: 2.9em;
+    padding-left: 3%;
+    width: 95%;
+    padding-bottom: 1.875em;
+}
+
+
+/* =wp_box4= */
+
+.wp_box4 {
+    text-align: center;
+}
+
+.wp_box4>button {
+    width: 10%;
+    padding: 0.3125em;
+    font-size: 100%;
+    border-radius: 0.3125em;
+    border: 1px solid #63C672;
+    background-color: #D9EF7A;
+}
+
+
+/* <!-====- section4--=========== */
+
+
+/* wp_section_4  */
+
+.wp_section_4 {
+    padding-top: 120px;
+    padding-left: 120px;
+}
+
+
+/* h1 */
+
+.h1_section_4 {
+    font-size: 80%;
+    font-family: Verdana;
+    line-height: 3.125em;
+    position: absolute;
+    text-align: center;
+    left: 25%;
+    width: 50%;
+    padding: 5px 0px;
+    border: 2px solid #FF000F;
+    background-color: #EEAE35;
+    border-radius: 3.125em;
+}
+
+
+/* img===== */
+
+.img_section_4 {
+    position: relative;
+}
+
+.img_section_4 img {
+    width: 60%;
+    border-radius: 50%;
+}
+
+
+/* content1_section_4" */
+
+.content1_section_4 {
+    position: absolute;
+    left: 70px;
+    padding-top: 20px;
+}
+
+
+/* content2_section_4" */
+
+.content2_section_4 {
+    padding-top: 20px;
+    position: absolute;
+    left: 420px;
+}
+
+
+/* content3_section_4" */
+
+.content3_section_4 {
+    padding-top: 20px;
+    position: absolute;
+    left: 770px;
+}
+
+
+/* ================section_5================= */
+
+
+/*== baner_section_5== */
+
+.baner_section_5 {
+    position: relative;
+    padding-bottom: 40px;
+}
+
+.baner_section_5 img {
+    width: 100%;
+    height: 700px;
+}
+
+
+/* ==wp_content_seciton_5== */
+
+.wp_content_seciton_5 {
+    position: absolute;
+    top: 30px;
+    left: 250px;
+}
+
+
+/* pt1_content_section_5 */
+
+.pt1_content_section_5 {}
+
+
+/* h2 */
+
+.pt1_content_section_5>h2 {
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+
+/* h1 */
+
+.pt1_content_section_5>h1 {
+    color: green;
+    padding-bottom: 30px;
+    padding-left: 225px;
+}
+
+
+/* span */
+
+.pt1_content_section_5>span {
+    position: absolute;
+    opacity: 0.7;
+    left: 230px;
+    width: 25%;
+    font-size: 23px;
+    border-radius: 25px;
+    padding: 10px 0px 10px 65px;
+    background-color: #C7EEB9;
+}
+
+
+/* <!-- pt2_content_section_5 --> */
+
+.pt2_content_section_5 {
+    position: absolute;
+    width: 100%;
+    top: 240px;
+    left: 90px;
+}
+
+
+/* text */
+
+.pt2_content_section_5>input[type="text"] {
+    font-size: 18px;
+    padding-left: 25px;
+}
+
+
+/* email */
+
+.pt2_content_section_5>input[type="email"] {
+    font-size: 18px;
+    padding-left: 25px;
+}
+
+
+/* Address */
+
+.pt2_content_section_5>input[type="Address"] {
+    font-size: 18px;
+    padding-left: 25px;
+}
+
+.pt2_content_section_5>input {
+    background-color: #C7EEB9;
+    height: 60px;
+    opacity: 0.7;
+    width: 70%;
+    border-radius: 15px;
+    border: none;
+}
+
+
+/* <!-- pt3_content_section_5 --> */
+
+.pt3_content_section_5 {
+    padding-top: 430px;
+    font-size: 25px;
+    color: white;
+    padding-left: 50px;
+}
+
+
+/* =========section_6"========== */
+
+.pd_top_left {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 100px;
+}
+
+
+/* .==wp_section_6== */
+
+.wp_section_6 {
+    width: 100%;
+    background-color: #A4E998;
+}
+
+
+/* pt1_section_5 */
+
+.pt1_section_5 {}
+
+
+/* pt2_section_5 */
+
+.pt2_section_5 {
+    padding-left: 60px;
+}
+
+
+/* pt3_section_5 */
+
+.pt3_section_5 {
+    position: relative;
+}
+
+.pt3_section_5>input {
+    position: absolute;
+    left: 25px;
+}
+
+.pt3_section_5>input[type="email"]:hover {
+    background-color: #FCFF81;
+}
+
+.pt3_section_5>input[type="text"]:hover {
+    background-color: #FCFF81;
+}
+
+
+/* Email */
+
+.pt3_section_5>input[type="email"] {
+    background-color: #BFBFBF;
+    border: none;
+    width: 50%;
+    font-size: 14px;
+    padding: 5px 0px 5px 50px;
+    border-radius: 5px;
+}
+
+
+/* text */
+
+.pt3_section_5>input[type="text"] {
+    background-color: #BFBFBF;
+    border: none;
+    width: 50%;
+    font-size: 14px;
+    padding: 5px 0px 5px 50px;
+    border-radius: 5px;
+}
+
+
+/* pt4_section_5 */
+
+.pt4_section_5 {}

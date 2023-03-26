@@ -1,0 +1,173 @@
+/* content_first */
+
+
+/* h_banner */
+
+.h_banner {
+    position: relative;
+}
+
+.wp_baner {
+    width: 100%;
+    position: absolute;
+    top: 15px;
+}
+
+
+/* ============section1======== */
+
+.content_first {}
+
+
+/* ct_ft_section_1_pt1 */
+
+.ct_ft_section_1_pt1 {}
+
+
+/* h1_ct_ft_section_1_pt1 */
+
+.h1_ct_ft_section_1_pt1 {
+    padding-top: 10%;
+    padding-left: 25%;
+    padding-bottom: 20%;
+}
+
+
+/* h1 */
+
+.ct_ft_section_1_pt1>.h1_ct_ft_section_1_pt1>h1 {
+    width: 55%;
+    border: 1px solid rgb(17, 16, 16);
+    padding: 1% 0px 1% 10%;
+    border-radius: 35px;
+    background-color: #F79E14;
+}
+
+
+/* p */
+
+.ct_ft_section_1_pt1>p {
+    font-size: 25px;
+    padding-left: 7%;
+}
+
+
+/* ct_ft_section_1_pt2 */
+
+.ct_ft_section_1_pt2 {
+    position: relative;
+}
+
+
+/* h2 */
+
+.ct_ft_section_1_pt2>h2 {
+    position: absolute;
+    top: 130px;
+    left: 50px;
+    color: #8D140A;
+}
+
+
+/* img */
+
+.ct_ft_section_1_pt2 img {
+    width: 88%;
+    height: 70%;
+    padding-top: 170px;
+    padding-left: 20px;
+}
+
+
+/* =======section2=========== */
+
+
+/* h1_ct_ft_section_2_pt1 */
+
+.ct_ft_section_2_pt1>h2 {
+    padding-top: 10%;
+    padding-left: 3%;
+    padding-bottom: 2%;
+    color: #8D140A;
+}
+
+
+/* img */
+
+.ct_ft_section_2_pt1 img {
+    padding-left: 5%;
+    width: 88%;
+    height: 85%;
+}
+
+
+/* ct_ft_section_2_pt2 */
+
+.ct_ft_section_2_pt2>p {
+    font-size: 25px;
+    padding-top: 170px;
+}
+
+
+/* ===========section_3========= */
+
+.wp_img_section_3 {
+    padding-top: 50px;
+    padding-bottom: 600px;
+    position: absolute;
+    left: 200px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+/* wp_img_1_section_3 */
+
+.wp_img_1_section_3 {
+    padding-top: 470px;
+    padding-left: 50px;
+}
+
+
+/* pt1_section3 */
+
+.pt1_section3 {
+    padding-right: 50px;
+}
+
+.pt1_section3>.wp_content_section3>i {
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+.pt1_section3>.wp_content_section3>p {
+    padding-left: 100px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+
+/* wp_content_section3 */
+
+.wp_content_section3 {
+    padding-top: 10px;
+}
+
+
+/* pt2_section3 */
+
+.pt2_section3 {
+    padding-right: 50px;
+}
+
+.pt2_section3>.wp_content_section3>i {
+    font-size: 20px;
+}
+
+
+/* pt3_section3 */
+
+.pt3_section3>.wp_content_section3>i {
+    font-size: 20px;
+    padding-left: 55px;
+}
